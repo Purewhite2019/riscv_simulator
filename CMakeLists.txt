@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.5)
+project(RISCV_Simulator_519021910529)
+add_executable(code, riscv_simulator_prediction_optimized.cpp)
