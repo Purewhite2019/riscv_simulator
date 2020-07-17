@@ -2,7 +2,7 @@
 #include <fstream>
 #include <iomanip>
 #include <cstring>
-// #define LOCAL
+#define LOCAL
 // #define DEBUG_PAUSE
 // #define DEBUG_READ
 // #define DEBUG_IF
